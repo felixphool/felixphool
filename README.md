@@ -38,6 +38,10 @@ Link to download my latest [Resume](https://docs.google.com/document/d/1ClEYxTR8
 
 ⚡ Fun fact: As a part of Android Jams, I crafted a community app in Kotlin and Firebase, that got selected and recognized nationally as #6 application by Google Inc [Link](https://youtu.be/Ha0aX8QSXnc) Check at Timestamp 02:00
 
+## 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RuchaMaheshKulkarni-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ruchamkulkarni)  
+[![GitHub](https://img.shields.io/badge/GitHub-felixphool-black?style=flat&logo=github)](https://github.com/felixphool)  
+📧 malpureakshada@gmail.com  
 📫 **Email:** I can be contacted at [ruchamaheshkulkarni@gmail.com](mailto:ruchamaheshkulkarni@gmail.com)
 
 ---
