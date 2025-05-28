@@ -6,8 +6,8 @@ Link to download my latest [Resume](https://docs.google.com/document/d/1ClEYxTR8
 
 ### About Me
 
- Hi, I'm a Software Engineer. So, being a Coding enthusiast, Debugger, Coffee Connoisseur, Experience Designer is a part of the experience.
- I am pursuing a Masters Degree in Computer Science with a Track in Data Science from NC State University, with a passion for solving complex problems and building impactful solutions. 
+ Hi, I'm a Data Analyst. So, being a Coding enthusiast, Debugger, Coffee Connoisseur, Experience Designer is a part of the experience.
+ I have pursued a Masters Degree in Computer Science with a Track in Data Science from NC State University, with a passion for solving complex problems and building impactful solutions. 
  Previously, I have worked on tech stacks like Machine Learning, Web Development and Data Science to turn ideas into turn-key projects.
 
  I have a keen interest in data-driven decision-making and software engineering, with experience in web development, database management, and data visualization tools like Power BI and Tableau. I enjoy learning new technologies and applying them to real-world projects.
@@ -18,8 +18,8 @@ Link to download my latest [Resume](https://docs.google.com/document/d/1ClEYxTR8
 
 |                 Organization                 |             Role            |                Duration               |
 |:--------------------------------------------:|:---------------------------:|:-------------------------------------:|
-|                 LTIMindtree                  |   Software Engineer Intern  |          May 2022 - March 2023        |
-|            Samtej Industries LLP             |       Software Engineer     |         January 2022 - May 2022       |
+|                 LTIMindtree                  |      Data Analyst Intern    |          May 2022 - March 2023        |
+|            Samtej Industries LLP             |      Data Analyst Intern    |         January 2022 - May 2022       |
 |Centre for Advanced Studies in Policy Research|        Research Intern      |        July 2021 - September 2021     |
 
 ---
@@ -34,7 +34,7 @@ Link to download my latest [Resume](https://docs.google.com/document/d/1ClEYxTR8
 
 ---
 
-🌱 I have experience in Full Stack Development, Database Management and Software Development. Recently, I have gained some experience in Cloud Technologies with platforms like AWS and GCP as well.
+🌱 I have experience in Regression Engineering, Database Management and Software Development. Recently, I have gained some experience in Cloud Technologies with platforms like AWS and GCP as well.
 
 ⚡ Fun fact: As a part of Android Jams, I crafted a community app in Kotlin and Firebase, that got selected and recognized nationally as #6 application by Google Inc [Link](https://youtu.be/Ha0aX8QSXnc) Check at Timestamp 02:00
 
