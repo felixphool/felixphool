@@ -1,4 +1,5 @@
 # Rucha Mahesh Kulkarni
+###MCS @ NC State | Data Science | Machine Learning | Actively Seeking 2025 Full-Time Opportunities
 😄 Pronouns: she/her
 
 ### Resume
