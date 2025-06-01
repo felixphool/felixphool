@@ -2,7 +2,7 @@
 😄 Pronouns: she/her
 
 ### Resume
-Link to download my latest [Resume](https://docs.google.com/document/d/1ClEYxTR8KR74lV6phtQlUq0XA71f9v6T7ui9tqJ2NXY/edit?usp=sharing)
+Link to download my latest [Resume]([https://docs.google.com/document/d/1ClEYxTR8KR74lV6phtQlUq0XA71f9v6T7ui9tqJ2NXY/edit?usp=sharing](https://drive.google.com/file/d/1-aUZKl-i_NaILeQl1Ei_BEA-RKvM_Nd2/view?usp=sharing))
 
 ### About Me
 
